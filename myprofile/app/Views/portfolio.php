@@ -30,9 +30,9 @@
         <div class="row justify-content-center">
             <div class="col-md-6">
                 <div class="profile-card text-center">
-                    <div class="profile-picture mb-3">
+                    <!-- <div class="profile-picture mb-3">
                         <img src="/assets/images/vignesh.jpg" alt="Vignesh's Profile Picture">
-                    </div>
+                    </div> -->
                     <h2>Vignesh A</h2>
                     <p class="text-muted">Backend Developer</p>
 
